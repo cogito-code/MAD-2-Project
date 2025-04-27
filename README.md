@@ -12,4 +12,4 @@ Rohit is an MS Research Scholar in the Department of Data Science and Artificial
 
 ## How to access this repository?
 
-- Step by Step guide to efficiently utilise the repository
+You can find the code for the examples discussed in the videos in this repository. This repository will be updated regularly as we upload new videos. You can also find the code for the all the videos in the respective folders.

@@ -14,4 +14,8 @@ I’ll be taking quite a few detours along the way so that the concepts are easi
 
 4. [Using Flask-RESTful to create REST APIs](https://youtu.be/N-dnhikHL9A) - In this video, we are using Flask-RESTful to create REST APIs. Code used in this video is accessible in the file named `flask_restful_tut.py`.
 
+5. [Creating Backend APIs (Authentication and CRUD operations) using Flask-RESTful]() - In this video, we will be creating few backend APIs using Flask-RESTful. We will be creating APIs for authentication and CRUD operations. Also, we would introduce the concept of `marshal_with` to format the output of our APIs. Code used in this video is accessible in the folder named `Tutorial - Auth APIs`.
+
+
+
  

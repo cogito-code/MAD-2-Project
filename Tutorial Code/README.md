@@ -10,4 +10,8 @@ I’ll be taking quite a few detours along the way so that the concepts are easi
 
 2. [Integrating Flask Security in Flask Project - Part 1](https://youtu.be/nKZZQlyMT9A) - In this video, we are integrating Flask Security in our Flask project. We have divided this into two parts. In the first part, we have discussed changes required in models to integrate Flask Security. Code used in this video is accessible in the file named `flask_security.py`.
 
+3. [Integrating Flask Security in Flask Project - Part 2](https://youtu.be/abMgElQItXU) - In this video, we are integrating Flask Security in our Flask project. We have divided this into two parts. In the second part, we have discussed changes needed to foucs for performing CURD operations in Models. Code used in this video is accessible in the file named `flask_security_tut.py`.
+
+4. [Using Flask-RESTful to create REST APIs](https://youtu.be/N-dnhikHL9A) - In this video, we are using Flask-RESTful to create REST APIs. Code used in this video is accessible in the file named `flask_restful_tut.py`.
+
  

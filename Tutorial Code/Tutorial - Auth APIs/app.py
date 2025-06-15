@@ -43,9 +43,13 @@ def init_db(app):
 app, api = create_app()
 CORS(app)  # Enable CORS for the app
 
-from auth_apis import LoginUser, LogoutUser
+from auth_apis import LoginUser, LogoutUser, RegisterUser
 api.add_resource(LoginUser, '/api/login')
 api.add_resource(LogoutUser, '/api/logout')
+api.add_resource(RegisterUser, '/api/register')
+
+from crud_apis import ProductResource
+api.add_resource(ProductResource, '/api/product', '/api/product/<int:product_id>')
 
 if __name__ == '__main__':
     init_db(app) 
